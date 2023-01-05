@@ -4,6 +4,6 @@
 
 ## Install
 
-clone repo
-run `composer u`
-run `composer demo`
+1. clone repo
+2. run `composer u`
+3. run `composer demo`
