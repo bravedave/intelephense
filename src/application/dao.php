@@ -14,7 +14,7 @@ class dao {
 
   protected $dto = __NAMESPACE__ . '\dto';
 
-  function getByID($id): dto {
+  function getByID($id): ?dto {
 
     // do some data lookup
 
@@ -23,6 +23,6 @@ class dao {
       return $dto;
     }
 
-    return false;
+    return null;
   }
 }
