@@ -14,7 +14,7 @@ class dao {
 
   protected $dto = __NAMESPACE__ . '\dto';
 
-  function getByID($id): ?dto {
+  function getByID($id): mixed {
 
     // do some data lookup
 
