@@ -1,6 +1,7 @@
 # Demo of Problem with Intelephense > 1.9
 
 * issue : https://github.com/bmewburn/vscode-intelephense/issues/2409
+  * resolution : https://github.com/bmewburn/vscode-intelephense/issues/2408#issuecomment-1371485764
 
 ![issue](Screenshot%202023-01-06%20093811.jpg)
 

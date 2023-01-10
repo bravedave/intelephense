@@ -8,6 +8,7 @@
  *
 */
 
+#[AllowDynamicProperties]
 namespace bravedave\application;
 
 class dao {
